@@ -1,4 +1,4 @@
-![Wikitubia logo](/profile/Wikitubia wordmark.svg)
+![Wikitubia logo](/profile/Wikitubia_wordmark.svg)
 # Hey. This is the GitHub organization for Wikitubia - The YouTube Wiki
 
 
