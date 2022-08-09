@@ -1,4 +1,4 @@
 Hey. This is the GitHub organization for Wikitubia - The YouTube Wiki
 
 
-<big>(https://youtube.fandom.com)[Go to Wikitubia]</big>
+<big>[Go to Wikitubia](https://youtube.fandom.com)</big>
