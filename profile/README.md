@@ -1,4 +1,5 @@
-## Hey. This is the GitHub organization for Wikitubia - The YouTube Wiki
+![Wikitubia logo](/Wikitubia wordmark.svg)
+# Hey. This is the GitHub organization for Wikitubia - The YouTube Wiki
 
 
 ## [Go to Wikitubia](https://youtube.fandom.com)</big>
