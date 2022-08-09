@@ -4,9 +4,9 @@
   <source media="(prefers-color-scheme: light)" srcset="/profile/Wikitubia_light.svg">
   <img alt="Wikitubia logo" width="400px" height="104px">
 </picture>
-
-# Hey. This is the GitHub organization for Wikitubia - The YouTube Wiki
-
-
-## [Go to Wikitubia](https://youtube.fandom.com)
 </p>
+
+# <<p align="center">Hey. This is the GitHub organization for Wikitubia - The YouTube Wiki</p>
+
+
+## <p align="center">[Go to Wikitubia](https://youtube.fandom.com)</p>
