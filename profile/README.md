@@ -9,4 +9,4 @@
 # Hey. This is the GitHub organization for Wikitubia - The YouTube Wiki
 
 
-## <center>[Go to Wikitubia](https://youtube.fandom.com)<center>
+## <p align="center">[Go to Wikitubia](https://youtube.fandom.com)</p>
