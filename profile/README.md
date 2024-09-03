@@ -6,7 +6,7 @@
 </picture>
 </p>
 
-# <p align="center">Hey.<br>This is the GitHub organization for Wikitubia - The YouTube Wiki</p>
+# <p align="center">Hey. This is the GitHub organization for Wikitubia - The YouTube Wiki</p>
 
 
-## <p align="center">[Go to Wikitubia](https://youtube.fandom.com)</p>
+## <p align="center">[Wikitubia](https://youtube.fandom.com) - [Discord](https://discord.com/invite/FXmZKmw)</p>
